@@ -10,3 +10,4 @@ cd  | change directory
 
 > :smiley: :simley:
 
+> added a quote
